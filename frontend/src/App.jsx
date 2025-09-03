@@ -54,9 +54,6 @@ function App() {
               <button className='btn-primary'>
                 Get Started
               </button>
-              <button className='btn-secondary'>
-                Learn More
-              </button>
             </div>
           </div>
         </div>
